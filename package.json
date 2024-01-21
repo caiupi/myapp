@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "my test for express for notejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiupi/test-express.git"
+  },
+  "keywords": [
+    "test-express"
+  ],
+  "author": "bajron ismailaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiupi/test-express/issues"
+  },
+  "homepage": "https://github.com/caiupi/test-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
